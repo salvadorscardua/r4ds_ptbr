@@ -2,3 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+
+/.quarto/
+/quarto_*/*
+/.quarto/
+/_book/
+/_freeze/
